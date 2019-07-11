@@ -1,0 +1,17 @@
+LevelGift:
+  a1:
+    Cmd: spawn {player}
+    MustLevel: 11
+    ItemName: "成长礼包11级"
+    Msg: "§c§l恭喜你13级了这是送你的礼物"
+  a2:
+    Cmd: spawn {player}
+    MustLevel: 13
+    ItemName: "成长礼包13级"
+    Msg: "§c§l恭喜你13级了这是送你的礼物"
+  a3:
+    Cmd: spawn {player}
+    MustLevel: 16
+    ItemName: "成长礼包16级"
+    Msg: "§c§l恭喜你13级了这是送你的礼物"
+DisPass: "你等级没达到"
